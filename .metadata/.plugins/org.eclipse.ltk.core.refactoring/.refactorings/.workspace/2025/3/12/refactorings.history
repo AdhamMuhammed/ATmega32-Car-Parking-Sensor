@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Car_Parking_Senso&apos; to &apos;Car_Parking_Sensor&apos;" description="Rename resource &apos;Car_Parking_Senso&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Car_Parking_Senso" name="Car_Parking_Sensor" stamp="1742213482366" updateReferences="true"/>
-</session>
